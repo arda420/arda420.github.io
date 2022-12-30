@@ -31,7 +31,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['is god', 'arda#420', 'is god', 'arda#420', 'is god', '=', 'arda#420', 'is god']);
+  app.titleChanger(['arda#420']);
   app.iconChanger(['rose1.jpg', 'rose2.jpg', 'rose3.jpg', 'rose4.jpg', 'rose5.jpg', 'rose6.jpg', 'rose7.jpg', 'rose8.jpg', 'rose1.jpg']);
 });
 
